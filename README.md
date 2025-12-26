@@ -50,22 +50,6 @@
 
 Паттерны: Strategy Pattern для расчета стоимости
 
-Структура проекта
-text
-ZhES-CSharp/
-├── Forms/
-│   ├── MainForm.cs           # Главная форма приложения
-│   ├── AddResidentForm.cs    # Форма добавления/редактирования жильцов
-│   └── ServiceDetailsForm.cs # Форма настройки услуг
-├── Models/
-│   ├── Resident.cs           # Класс жильца
-│   ├── Service.cs            # Класс услуги
-│   └── CostCalculationStrategy.cs # Стратегии расчета стоимости
-├── Data/
-│   └── DatabaseManager.cs    # Менеджер работы с БД
-├── Program.cs                # Точка входа
-└── README.md                 # Документация
-🚀 Быстрый старт
 Требования
 Windows 7 и выше
 
